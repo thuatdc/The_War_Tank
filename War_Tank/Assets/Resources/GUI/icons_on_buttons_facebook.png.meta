@@ -1,9 +1,34 @@
 fileFormatVersion: 2
 guid: 4561e78224683d740bbd2423e5bf8e43
-timeCreated: 1435322859
-licenseType: Free
+timeCreated: 1435655171
+licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: icons_on_buttons_facebook_0
+    21300002: icons_on_buttons_facebook_1
+    21300004: icons_on_buttons_facebook_2
+    21300006: icons_on_buttons_facebook_3
+    21300008: icons_on_buttons_facebook_4
+    21300010: icons_on_buttons_facebook_5
+    21300012: icons_on_buttons_facebook_6
+    21300014: icons_on_buttons_facebook_7
+    21300016: icons_on_buttons_facebook_8
+    21300018: icons_on_buttons_facebook_9
+    21300020: icons_on_buttons_facebook_10
+    21300022: icons_on_buttons_facebook_11
+    21300024: icons_on_buttons_facebook_12
+    21300026: icons_on_buttons_facebook_13
+    21300028: icons_on_buttons_facebook_14
+    21300030: icons_on_buttons_facebook_15
+    21300032: icons_on_buttons_facebook_16
+    21300034: icons_on_buttons_facebook_17
+    21300036: icons_on_buttons_facebook_18
+    21300038: icon_Star_Ground
+    21300040: icons_on_buttons_facebook_20
+    21300042: icons_on_buttons_facebook_21
+    21300044: icons_on_buttons_facebook_22
+    21300046: icons_on_buttons_facebook_23
+    21300048: icons_on_buttons_facebook_24
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +55,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +73,17 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: icon_Star_Ground
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 226
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

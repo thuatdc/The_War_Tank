@@ -1,9 +1,19 @@
 fileFormatVersion: 2
 guid: 90772cb6fc8eefe4fa8a1b98a4413e7b
-timeCreated: 1435322869
-licenseType: Free
+timeCreated: 1435655532
+licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: font_time_indicator_0
+    21300002: font_time_indicator_1
+    21300004: font_time_indicator_2
+    21300006: font_time_indicator_3
+    21300008: font_time_indicator_4
+    21300010: font_time_indicator_5
+    21300012: font_time_indicator_6
+    21300014: font_time_indicator_7
+    21300016: font_time_indicator_8
+    21300018: font_time_indicator_9
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +40,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +58,107 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: font_time_indicator_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: font_time_indicator_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
